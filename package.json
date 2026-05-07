@@ -15,8 +15,7 @@
   "type": "commonjs",
   "workspaces": [
     "client",
-    "server",
-    "api"
+    "server"
   ],
   "devDependencies": {
     "concurrently": "^9.2.1"
