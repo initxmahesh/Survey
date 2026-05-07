@@ -17,9 +17,5 @@
     "uuid": "^14.0.0",
     "ws": "^8.20.0",
     "zod": "^4.4.3"
-  },
-  "devDependencies": {
-    "@vercel/node": "^5.0.0",
-    "@types/express": "^5.0.6"
   }
 }
